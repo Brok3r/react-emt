@@ -1,0 +1,3 @@
+export const LIST_BUS_STOP = 'LIST_BUS_STOP';
+export const REQUEST_POSTS = 'REQUEST_POSTS';
+export const RECEIVE_POSTS = 'RECEIVE_POSTS';
